@@ -2,7 +2,10 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-How to use:
+**Installation:**
+>pip install -r requirements.txt
+
+**How to use**:
 > python tts-from-csv.py --csv samples.csv
 
 > python tts-from-csv.py --csv samples.csv --voice "Михайло Тишин.pt"
