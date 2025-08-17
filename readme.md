@@ -5,6 +5,12 @@
 **Installation:**
 >pip install -r requirements.txt
 
+If you want to try this code with CUDA enabled, install torch with following command:
+> pip install torch torchvision --index-url https://download.pytorch.org/whl/cu129
+
+Or use this page for getting of latest or specified version of torch:  
+> https://pytorch.org/get-started/locally/
+
 **How to use**:
 > python tts-from-csv.py --csv samples.csv
 
